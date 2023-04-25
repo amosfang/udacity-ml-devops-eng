@@ -4,6 +4,8 @@
 
 ## Advanced Specialization in MLOps
 
+### Programming Language and Tools: Python, Scikit-learn, Git and Github
+
 Techniques taught and used in this course include:
 
   * Clean Code Principles
